@@ -1,6 +1,6 @@
 # nucon-biblio
 
-Biblio and research supporting nucon
+Biblio and research supporting nucon, will be updated regularly.
 
 ## Researchers to follow
 
