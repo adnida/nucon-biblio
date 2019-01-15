@@ -6,7 +6,7 @@ Biblio and research supporting [nucon](www.nucon.io), will be updated regularly.
 
 - [Peter ED Love](https://scholar.google.com.sg/citations?hl=en&user=7Eszm_8AAAAJ&view_op=list_works), researches heavily into organizational learning and the role of information system to prevent rework in construction.
 - [Per-Erik Josephson](https://scholar.google.com/citations?user=dSsdb0QAAAAJ&hl=en), pioneer in defects research with primary data. Dated but still relevant.
-- [Chris Argyris]https://hbr.org/search?term=chris%20argyris), for all things organizational learning, effectiveness, and communication. 
+- [Chris Argyris](https://hbr.org/search?term=chris%20argyris), for all things organizational learning, effectiveness, and communication. 
 
 ## Concepts
 
