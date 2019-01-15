@@ -6,10 +6,11 @@ Biblio and research supporting [nucon](www.nucon.io), will be updated regularly.
 
 - [Peter ED Love](https://scholar.google.com.sg/citations?hl=en&user=7Eszm_8AAAAJ&view_op=list_works), researches heavily into organizational learning and the role of information system to prevent rework in construction.
 - [Per-Erik Josephson](https://scholar.google.com/citations?user=dSsdb0QAAAAJ&hl=en), pioneer in defects research with primary data. Dated but still relevant.
+- [Chris Argyris]https://hbr.org/search?term=chris%20argyris), for all things organizational learning, effectiveness, and communication. 
 
 ## Concepts
 
-- Double Loop learning, a central idea in process improvement in organizations. [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations).
+- Double Loop learning, a central idea in process improvement in organizations. [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations). Argyris, 1977.
 - Causes of defects and their costs. [Defects and Defects Costs in Construction](http://publications.lib.chalmers.se/records/fulltext/201455/local_201455.pdf). Josephson, 1998.
 - Rework gives 43% variance in cost performance. [Make-or-Break During Production: Shedding Light on Change-Orders, Rework and Contractors Margin in Construction](https://www.researchgate.net/profile/Peter_Love2/publication/328138314_Make-or-Break_During_Production_Shedding_Light_on_Change-Orders_Rework_and_Contractors_Margin_in_Construction/links/5bbc09e7299bf1049b75e10b/Make-or-Break-During-Production-Shedding-Light-on-Change-Orders-Rework-and-Contractors-Margin-in-Construction.pdf). Love, 2018.
 - The importance of organizational learning in construction. [Total quality management and the learning organization: a dialogue for change in construction](sci-hub.tw/10.1080/014461900370681). Love, 2010.
